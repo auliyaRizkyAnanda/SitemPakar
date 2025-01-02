@@ -1,0 +1,121 @@
+A.Poin rumah (urutan kepentingan 3)
+1.Jenis Bangunan
+Bangunan apa yang ingin Anda periksa?
+- Rumah Tinggal 
+Penjelasan: Biasanya ringan, satu atau dua lantai, dengan risiko lebih kecil dibandingkan gedung tinggi.
+- Kantor atau Bangunan Komersial 
+Penjelasan: Bisa bertingkat, memerlukan penguatan tambahan di struktur utama.
+- Gedung Bertingkat Tinggi 
+Penjelasan: Memerlukan desain khusus dengan sistem peredam getaran dan penguatan kolom yang sangat kuat.
+
+2.Jumlah Lantai
+Berapa lantai bangunan Anda?
+- Satu Lantai 
+Penjelasan: Risiko lebih rendah karena gaya gempa yang diterima lebih kecil.
+- Dua Lantai 
+Penjelasan: Bagian atas harus menggunakan material ringan dan kolom balok diperkuat.
+- Lebih dari Dua Lantai 
+Penjelasan: Memerlukan sistem struktur menerus dan penguatan tambahan di setiap lantai untuk menahan gaya horizontal gempa.
+
+3.Material Bangunan 
+Material apa yang digunakan untuk bangunan Anda?
+- Ringan dan Kuat: Batu bata merah, beton deking, baja ringan.
+Penjelasan: Material ini dapat menahan guncangan gempa lebih baik.
+- Sedang: Kayu, genting beton. 
+Penjelasan: Cukup kuat tetapi perlu desain yang mendukung agar aman.
+- Berat: Beton masif, batu. 
+Penjelasan: Lebih rentan kerusakan kecuali menggunakan sistem penahan beban yang baik.
+
+4.Fondasi Bangunan 
+Apa jenis fondasi yang digunakan pada bangunan Anda?
+- Kuat: Batu kali dengan beton sloof.
+Penjelasan: Cocok untuk hampir semua jenis bangunan karena stabil.
+- Sedang: Beton bertulang sederhana. 
+Penjelasan: Harus diperkuat terutama untuk bangunan bertingkat.
+- Tanpa Penguatan Khusus: Fondasi tanah atau tidak memiliki penguatan.
+Penjelasan: Sangat rentan terhadap guncangan gempa.
+
+5.Atap Bangunan
+Apa jenis atap yang digunakan?
+- Ringan: Seng, asbes, atau metal.
+Penjelasan: Lebih aman karena tidak menambah beban saat gempa.
+- Sedang: Genting tanah bakar atau beton.
+Penjelasan: Harus dipasang dengan sekrup agar tetap kokoh saat gempa.
+- Berat: Atap beton atau kayu.
+Penjelasan: Berisiko menyebabkan keruntuhan jika getaran gempa kuat.
+
+
+B.Poin manusia (urutan kepentingan 4)
+1.Ketersediaan Petunjuk Evakuasi
+Apakah jalur evakuasi di daerah tempat tinggal atau kantor Anda telah dilengkapi dengan petunjuk? 
+- Ada dan Lengkap 
+Penjelasan: Tanda petunjuk arah tersedia di sepanjang jalur, dalam kondisi terawat, dan mudah diakses. 
+- Ada tetapi Tidak Lengkap
+Penjelasan: Hanya sebagian jalur memiliki tanda, dan beberapa kondisinya kurang baik atau rusak. 
+- Tidak Ada 
+Penjelasan: Tidak ada tanda atau petunjuk arah, sehingga warga kesulitan menentukan jalur evakuasi.
+
+2.Tingkat Populasi di Tempat Anda Saat Ini
+Bagaimana tingkat kepadatan penduduk di daerah Anda?
+- Sangat Padat
+Penjelasan: Kepadatan tinggi dengan risiko besar kemacetan saat evakuasi.
+- Cukup Padat
+Penjelasan: Ada ruang gerak, tetapi kepadatan tetap memengaruhi waktu evakuasi.
+- Padat Lokal
+Penjelasan: Kepadatan hanya di titik tertentu seperti pasar atau kawasan perumahan tertentu.
+- Tidak Padat
+Penjelasan: Wilayah dengan jumlah penduduk rendah, memungkinkan evakuasi lebih lancar.
+- Area Terbuka
+Penjelasan: Wilayah dengan ruang terbuka luas memudahkan proses evakuasi tanpa risiko kemacetan.
+
+
+C.Poin Lokasi Tanah dan Lingkungan (urutan kepentingan 2)
+1. Dimana lokasi bangunan anda?
+- Provinsi dengan Risiko Gempa Tinggi
+Aceh
+Sumatera Utara, Sumatera Barat, Jambi, Bengkulu, Lampung, Banten, Jawa Barat, Jawa Tengah, DI Yogyakarta, Jawa Timur, Bali, Nusa Tenggara Barat, Nusa Tenggara Timur, Sulawesi Utara, Sulawesi Tengah, Maluku, Maluku Utara, Papua Barat, Papua, Papua Tengah, Papua Pegunungan, Papua Selatan ,Papua Barat Daya
+- Provinsi dengan Risiko Gempa Sedang
+Riau, Sumatera Selatan, DKI Jakarta, Sulawesi Barat, Sulawesi Selatan, Sulawesi Tenggara
+- Provinsi dengan Risiko Gempa Rendah
+Kepulauan Riau, Bangka Belitung, Kalimantan Barat, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Timur, Kalimantan Utara, Gorontalo
+
+2. Jenis Tanah
+Tanah seperti apa yang terdapat di lokasi Anda?
+- Pasir Halus dan Longgar
+Penjelasan: Tanah ini sangat rentan terhadap likuifaksi karena tidak memiliki kohesi antar butiran dan mudah jenuh air.
+- Lanau (Silt)
+Penjelasan: Cenderung berbutir halus, berporositas tinggi, dan bisa terpengaruh likuifaksi jika jenuh air.
+- Tanah Vulkanik Halus
+Penjelasan: Ringan, berpori tinggi, dan rentan mengalami pergerakan atau likuifaksi saat gempa terjadi.
+- Tanah Lempung
+Penjelasan: Kurang rentan terhadap likuifaksi, tetapi jika jenuh air dapat menyebabkan longsor.
+
+3. Jenis Lahan Permukaan Tanah
+Apa jenis lahan permukaan tanah tersebut?
+- Dataran Rendah
+Penjelasan: Berpotensi mengalami likuifaksi karena muka air tanah cenderung dangkal.
+- Tepi Sungai atau Pantai
+Penjelasan: Berisiko tinggi karena tanahnya biasanya berupa pasir atau sedimen yang jenuh air.
+- Daerah Perbukitan
+Penjelasan: Berisiko longsor jika tanah lempung atau tanah berpasir berada di lereng curam.
+- Dekat Zona Patahan Gempa
+Penjelasan: Risiko tanah bergeser atau retak sangat tinggi akibat pergerakan langsung dari patahan.
+
+4. Risiko Lain Akibat Komposisi dan Struktur Tanah
+Potensi bencana apa yang dapat dipicu oleh struktur tanah di lokasi Anda?
+- Likuifaksi
+Penjelasan: Terjadi jika tanah berpasir jenuh air kehilangan kekuatannya akibat gempa.
+- Longsor
+Penjelasan: Terjadi pada lereng curam dengan tanah lempung atau pasir longgar yang jenuh air.
+- Penurunan Tanah (Subsidence)
+Penjelasan: Terjadi jika tanah longgar tiba-tiba memadat akibat getaran.
+- Retakan Tanah
+Penjelasan: Terjadi pada tanah lempung kering atau pasir longgar, merusak infrastruktur di permukaan.
+
+
+D. Kebesaran Gempa (urutan kepentingan 1)
+1. Skala gempa
+- rendah (mmi 1-3 tidak terasa) : tidak perlu evakuasi
+- sedang (mmi 4-5 terasa) : tidak perlu evaksuai jika struktur bangunan, koordinasi dengan tim penyelamat
+- tinggi (mmi 6-7 sangat kuat) : segera lakukan evakuasi berpotensi tsunami
+- BAHAYA (mmi 8-12 terlalu KUAT) : evakuasi harus dengan cepat atau berharap dan berdoa saja 
